@@ -2,7 +2,7 @@
 
 Derived from https://github.com/littlevgl/lvgl with minor changes, tested on F469-Discovery board.
 
-Should work with screen drivers: [TFT](https://github.com/stepansnigirev/f469-disco-lvgl-tft) and [Touchpad](https://github.com/stepansnigirev/f469-disco-lvgl-touchpad)
+Should work with screen drivers: [f469_lvgl_driver](https://github.com/stepansnigirev/f469_lvgl_driver)
 
 Docs are available on [Littlevgl website](https://docs.littlevgl.com/)
 
